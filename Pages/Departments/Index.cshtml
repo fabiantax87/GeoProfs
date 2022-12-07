@@ -1,5 +1,5 @@
 @page
-@model ContosoUniversity.Pages.Departments.IndexModel
+@model GeoProfs.Pages.Departments.IndexModel
 
 @{
     ViewData["Title"] = "Departments";
@@ -46,9 +46,6 @@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Administrator.FullName)
-                </td>
-                <td>
-                    @Utility.GetLastChars(item.ConcurrencyToken)
                 </td>
                 <td>
                     <a asp-page="./Edit" asp-route-id="@item.DepartmentID">Edit</a> |

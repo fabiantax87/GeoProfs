@@ -1,7 +1,5 @@
 C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\appsettings.json
-C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\appsettings1.json
-C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\appsettingsSQLite.json
 C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\GeoProfs.exe
 C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\GeoProfs.deps.json
 C:\Users\Fabian\Downloads\cu50\cu50\bin\Debug\net5.0\GeoProfs.runtimeconfig.json
