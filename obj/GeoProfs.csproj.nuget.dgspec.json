@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj": {}
+    "C:\\C#\\Geoprofs\\GeoProfs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj": {
+    "C:\\C#\\Geoprofs\\GeoProfs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj",
+        "projectUniqueName": "C:\\C#\\Geoprofs\\GeoProfs.csproj",
         "projectName": "GeoProfs",
-        "projectPath": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj",
-        "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\obj\\",
+        "projectPath": "C:\\C#\\Geoprofs\\GeoProfs.csproj",
+        "packagesPath": "C:\\Users\\Bonotti\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\Geoprofs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bonotti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
           "net5.0": {
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
