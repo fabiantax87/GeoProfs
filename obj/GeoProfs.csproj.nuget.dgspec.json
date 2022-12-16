@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj": {}
+    "C:\\Users\\Fabian\\OneDrive\\School\\Leerjaar 3\\C#\\.NET\\GeoProfs\\GeoProfs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj": {
+    "C:\\Users\\Fabian\\OneDrive\\School\\Leerjaar 3\\C#\\.NET\\GeoProfs\\GeoProfs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj",
+        "projectUniqueName": "C:\\Users\\Fabian\\OneDrive\\School\\Leerjaar 3\\C#\\.NET\\GeoProfs\\GeoProfs.csproj",
         "projectName": "GeoProfs",
-        "projectPath": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\GeoProfs.csproj",
+        "projectPath": "C:\\Users\\Fabian\\OneDrive\\School\\Leerjaar 3\\C#\\.NET\\GeoProfs\\GeoProfs.csproj",
         "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabian\\Downloads\\cu50\\cu50\\obj\\",
+        "outputPath": "C:\\Users\\Fabian\\OneDrive\\School\\Leerjaar 3\\C#\\.NET\\GeoProfs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
