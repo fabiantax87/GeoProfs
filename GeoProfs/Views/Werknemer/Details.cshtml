@@ -1,0 +1,19 @@
+﻿@model GeoProfs.Models.Werknemer
+
+@{
+    ViewData["Title"] = "Werknemer details";
+}
+
+<div class="text-center">
+    <h1>Welkom @Html.DisplayFor(model => model.Voornaam)</h1>
+
+    @if (Model.Functie_id == 1)
+    {
+        <p>werknemer</p>
+    }
+
+    @if (Model.Functie_id == 2)
+    {
+        <p>manager</p>
+    }
+</div>
