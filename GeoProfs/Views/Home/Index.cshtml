@@ -1,8 +1,22 @@
-﻿@{
+﻿@model IEnumerable<GeoProfs.Models.Werknemer>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Werknemer login</h1>
+    <div class="werknemer-list">
+        @if (Model != null)
+        {
+           @foreach (var item in Model)
+           {
+                <div class="werknemer">
+                    <a asp-controller="Werknemer" asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Voornaam)</a>
+                </div>
+           }
+        }
+    </div>
+    <div class="manager-list">
+    </div>
 </div>
